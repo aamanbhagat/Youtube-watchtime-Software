@@ -1,0 +1,3 @@
+Author: Haji Qasim <br>
+Description:
+    This frontend is designed for those YouTubers who are unable to complete their watchtime, as they are not able to monatize their channel. This frontend includes html, css, javaScript and Bootstrap and provides a responsive interface to users, so that they can complete their watchtime on every device. There is no need to provide a user manual with this software as its responsive design lets users to easily understand the user interface and work with it. 
